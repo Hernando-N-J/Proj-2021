@@ -1,0 +1,9 @@
+Launcher scene
+Player with 
+- Camera follow
+- Third person controller
+- Animator
+- RB
+- Collider
+- Photon scripts
+ 
